@@ -1,8 +1,25 @@
 # python-challenge
-Part1:
 
-Part2:
+#Folder 1: PyBank 
 
-Part3:
+  Use dataset budget_data (with two columns date and profit/losses) to analyse the financial records of the company
 
-Conclusion:
+  Sub Folder 1 - analysis. This folder includes a text file (.txt) - analysis result which was exported from Python script
+  
+  Sub Folder 2 - Resources. This folder has the csv file of budget_data
+  
+  Python File: main.py - this file has all Python Scripts to run the report
+
+# Folder 2: PyBank
+
+  Use dataset election_data (with three columns Ballot ID, County and Candidate) to analyse the votes of each candidate and determine the winner of the election.
+
+  Sub Folder 1 - analysis. This folder includes a text file (.txt) - analysis result which was exported from Python script
+  
+  Sub Folder 2 - Resources. This folder has the csv file of election_data
+  
+  Python File: main.py - this file has all Python Scripts to run the report
+  
+# README File
+  Provide description of the python-challenge.
+ 
