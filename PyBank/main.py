@@ -130,18 +130,18 @@ with open(file_output, 'w') as output_text:
     output_text.write('\n')
     output_text.write(f'Total: ${profit_loss_total}')
 
-     # Write a blank line and the average profit/losses change
+    # Write a blank line and the average profit/losses change
 
     output_text.write('\n')
     output_text.write('\n')
     output_text.write('Average Change: $' + str(Average))
 
-     # Write a blank line and the greatest increase in the profit and date
+    # Write a blank line and the greatest increase in the profit and date
     output_text.write('\n')
     output_text.write('\n')
     output_text.write(f'Greatest Increase in Profits: {greatest_inc_date} (${greatest_increase})')
 
-     # Write a blank line and the greatest decrease in the profit and date
+    # Write a blank line and the greatest decrease in the profit and date
     output_text.write('\n')
     output_text.write('\n')
     output_text.write(f'Greatest Decrease in Profits: {greatest_dec_date} (${greatest_decrease})')
