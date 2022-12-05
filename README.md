@@ -10,7 +10,7 @@
   
   Python File: main.py - this file has all Python Scripts to run the report
 
-# Folder 2: PyBank
+# Folder 2: PyPoll
 
   Use dataset election_data (with three columns Ballot ID, County and Candidate) to analyse the votes of each candidate and determine the winner of the election.
 
