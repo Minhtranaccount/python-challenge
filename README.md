@@ -1,6 +1,6 @@
 # python-challenge
 
-#Folder 1: PyBank 
+# Folder 1: PyBank 
 
   Use dataset budget_data (with two columns date and profit/losses) to analyse the financial records of the company
 
