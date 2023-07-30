@@ -1,6 +1,6 @@
 # python-challenge
 
-Int this project, I have created a Python script to analyse the financial records of the provided company based on a financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
+In this project, I have created a Python script to analyse the financial records of the provided company based on a financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
 
 The Python script analyses the records to calculate each of the following values:
 
